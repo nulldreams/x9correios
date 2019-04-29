@@ -11,7 +11,7 @@ BOT <a href="https://t.me/avisai_bot" target="_blank">@avisai_bot</a>
 
 `/track_status CODIGO`
 
-![](https://imgur.com/download/0VyuU6H)
+![](https://imgur.com/download/Bs2eHas)
 
 ### Notificações
 
